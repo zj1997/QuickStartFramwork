@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QuickStartFramwork:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="QuickStartFramwork.war">
+      <element id="artifact" artifact-name="QuickStartFramwork:war exploded" />
+    </root>
+  </artifact>
+</component>
